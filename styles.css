@@ -1,0 +1,28 @@
+nav {
+    margin-left: 500px;
+    font-size: 30px;
+}
+
+section {
+         padding: 50px;
+}
+
+body { 
+     background-color: teal
+}
+
+header h1 { 
+          text-align: center;
+        
+}
+img { 
+    border: 50px solid goldenrod ;
+}
+
+.amazing{
+         color: rgb(218, 152, 11);
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         font-size: 20px; 
+         text-align: center;
+
+}
