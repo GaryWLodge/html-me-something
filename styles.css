@@ -1,28 +1,35 @@
 nav {
     margin-left: 500px;
     font-size: 30px;
+    color: aliceblue;
 }
 
 section {
          padding: 50px;
+         color: aliceblue;
+         font-size: 2em;
+         text-align: center;
 }
 
 body { 
-     background-color: teal
+     background-color: rgb(4, 34, 167);
 }
 
 header h1 { 
           text-align: center;
+          color: white;
+          font-size: 40px;
         
 }
 img { 
     border: 50px solid goldenrod ;
+    border-radius: 10%;
 }
 
 .amazing{
          color: rgb(218, 152, 11);
          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-         font-size: 20px; 
+         font-size: 40px; 
          text-align: center;
 
 }
